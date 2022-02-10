@@ -1,0 +1,21 @@
+[
+  {
+    "idDoctor": 1,
+    "nombre": "Juan Perez",
+    "consultorio": "C1",
+    "cola": [
+      {
+        "idPaciente": 3,
+        "nombre": "Victor Johan Palma Rodríguez",
+        "numero": 1
+      },
+      { "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 }
+    ]
+  },
+  {
+    "idDoctor": 2,
+    "nombre": "Ramon Almanzar",
+    "consultorio": "C2",
+    "cola": [{ "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 }]
+  }
+]
